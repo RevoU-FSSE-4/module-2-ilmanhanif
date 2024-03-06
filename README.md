@@ -17,3 +17,33 @@ Whether you're a devoted supporter reliving cherished memories or a newcomer eag
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/-vSzXkEt)
 
 # Documentation
+
+First you have to sign up for a netlify account and then connect it to the github that you have.
+
+![step1](img/step1.PNG)
+
+after that connect netlify with the code that has been pushed into the git repository. the code that has been connected to netilfy will appear on the netlify page.
+
+![step2](img/step2.PNG)
+
+the next step is to create a domain on niagahoster. previously, you will be asked to sign up for a niagahoster account and will be asked to fill in the domain name you want to use.
+
+![step3](img/step3.PNG)
+
+After choosing the domain name you want to use, the price offer of the domain you choose will be displayed. the price displayed is influenced by the duration of how long you want the domain to have.
+
+then you will go back to netlify and set up the domain and enter the domain name that was purchased earlier.
+
+![step4](img/step4.PNG)
+
+after that you will visit niagahoster again to enter the DNS from netlify into niagahoster.
+
+![step5](img/step5.PNG)
+
+![step6](img/step6.PNG)
+
+then wait until your web is connected to the new domain.
+
+Congratulations, you have successfully created a new domain with the name you want.
+
+[Real Madrid News](www.kalelontong.online)
