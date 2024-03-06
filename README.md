@@ -46,4 +46,4 @@ then wait until your web is connected to the new domain.
 
 Congratulations, you have successfully created a new domain with the name you want.
 
-[Real Madrid News](www.kalelontong.online)
+[Real Madrid Galleries](www.kalelontong.online)
